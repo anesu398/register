@@ -1,1 +1,15 @@
+{
+  "description": "this is my simpple web portfolio"
+  "repo":"https://github.com/anesu398/ane_su.git"
+  "owner":{
+    "username":"anesu398"
+    "email":"ndabaprinco@gmail.com"
+    "twitter":"@AnesuNdava"
+    "whatsapp":"https://api.whatsapp.com/send?phone=+27630283592"
+  }
+},
+"record":{
+"CNAME":"anesu398.github.io"
+}
+
 
